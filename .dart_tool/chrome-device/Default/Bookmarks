@@ -1,0 +1,160 @@
+{
+   "checksum": "52d4b7e2a21e5a4f515859b4823a577e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13179888221764414",
+            "date_last_used": "0",
+            "guid": "f4536016-8cb7-4ec3-8fca-1b4b89a2fa11",
+            "id": "11",
+            "name": "Economics Is All Of The Following Except O A. A Su... | Chegg.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.chegg.com/homework-help/questions-and-answers/economics-following-except-o--subject-studies-incentives-o-b-subject-tells-governments-mus-q17817430"
+         }, {
+            "date_added": "13227245800465588",
+            "date_last_used": "0",
+            "guid": "71b6ece2-1ee9-47ad-bf03-17cf0e6894d3",
+            "id": "12",
+            "name": "SGG ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/StudentGlobalGroup/posts/116160336634039?__tn__=K-R"
+         }, {
+            "date_added": "13167479356123454",
+            "date_last_used": "0",
+            "guid": "e2b2ee35-de50-47a7-b6c8-64ec4366b417",
+            "id": "13",
+            "name": "apa",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://orangecounty.craigslist.org/"
+         }, {
+            "date_added": "13231931068963406",
+            "date_last_used": "0",
+            "guid": "a54d8b2b-d78e-4afb-8649-8037e3e05dde",
+            "id": "14",
+            "name": "EU Outstanding Cases and Problem shpt from Shipping - Google Sheets",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1M46id1GhrJ-2TP9CQzEVx4tOypBEx2tYAauqzIhbr_Y/edit#gid=1551345697"
+         }, {
+            "date_added": "13238719200881785",
+            "date_last_used": "0",
+            "guid": "0b42fe35-c4f9-49f6-adb3-f253eaf22fbb",
+            "id": "15",
+            "name": "Label Class (System.Windows.Controls) | Microsoft Docs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.label?redirectedfrom=MSDN&view=netcore-3.1"
+         }, {
+            "date_added": "13159860976240050",
+            "date_last_used": "0",
+            "guid": "3ab47509-5915-466d-b93b-6cc4010da4b8",
+            "id": "16",
+            "name": "My hero Academia season 2",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://animestreams.tv/my-hero-academia-2-dub/"
+         }, {
+            "date_added": "13166832766209827",
+            "date_last_used": "0",
+            "guid": "ad9ae774-132f-4a8a-8fe2-cef85e14bb67",
+            "id": "17",
+            "name": "Anaheim",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://orangecountypm.appfolio.com/listings/detail/2d6473e2-fe64-48d2-b3eb-d9f36c405ae4"
+         }, {
+            "date_added": "13239259239758940",
+            "date_last_used": "0",
+            "guid": "713532b4-4f0f-48fa-beea-e9c4ba4cbb0d",
+            "id": "18",
+            "name": "C# Lesson 17 (How to use multi language(Localization and Globalization)) - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=f913Mmjkh78"
+         } ],
+         "date_added": "13356512314154893",
+         "date_last_used": "0",
+         "date_modified": "13239259239758940",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13204457725680630",
+                  "date_last_used": "0",
+                  "guid": "54869a66-b793-4dc6-adae-756449e333bd",
+                  "id": "9",
+                  "name": "Funbox",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "http://fiberbox/captivePortal.html?url=http%3A%2F%2Fwww.msftconnecttest.com%2Fredirect&errorcode=Error_04"
+               }, {
+                  "date_added": "13204457725680630",
+                  "date_last_used": "0",
+                  "guid": "66fbc44c-ef27-4151-a1f3-d6c8b12dd684",
+                  "id": "10",
+                  "name": "bing.com",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "about:blank"
+               } ],
+               "date_added": "13240817454339032",
+               "date_last_used": "0",
+               "date_modified": "13240817454339032",
+               "guid": "ef0967f5-4fc1-41d5-93b5-4d2ebfb4942a",
+               "id": "8",
+               "name": "Group 1",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13240817454338696",
+            "date_last_used": "0",
+            "date_modified": "13240817454338696",
+            "guid": "e0c7df98-e888-4c96-bf65-9895933a78ed",
+            "id": "7",
+            "name": "Tabs set aside",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13356512314154897",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13356512314154899",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCLDOdZ2OAQAAEgAqGE9vd3NPRm9UQU50NXVzcUo0TW5xYkE9PUgDoAYMEqgBCBESowEKHHlXVVh6dWZPWEJmeVB0dGZ4K3I3NkZvUC85ST0SJDA2Mjc4YjdjLWEwZmEtNDA5OS1iMDNhLTU3N2Q2OGRiYmUzOBgAIAAoADDY6uavwjE4of2Yx+gvQKH9mMfoL0ocbVlEVXJ2VWxEZ2oxQXNsak5xdXkzYjNxeXg4PVofIh32NnA5dVJRM2ZKTmVZaklkMjJidHhncSsrOGUwPWWKvLVjEqgBCA8SowEKHGhNelczNU16S09UMjNMSUpGSnV1NVFJVldOTT0SJGRlZjhlNmYxLTYwNTItNDBmMy1hYTdiLTA3MTc0YTg2MmYwYhgAIAAoADD4hpm/0DE4mrqXx+gvQJq6l8foL0ocYlJEbStVdnVvZitxNjdyNzM4SmlxSWRETE1zPVofIh3ZRHczcG43SzQ4ZkRTcjZwdGNBeC9oeXdHaHQwPWWnHNIZEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDRhZmY2ODYwLWE5ODUtNTQ5Ny1iM2M0LWIzOWViMWJjZmFmOBgAIAAoADDZis7jsjA4/riXx+gvQP64l8foL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqAEIDhKjAQocTC9SbEwvRmhQYnVrMU5kU2RhQnZkeUVhdEJvPRIkYzU1ZTAzYmItNmRhZC00YjU0LWI5OGEtMzY1NDBlYTVhMzdjGAAgAigCMK6d1+vpMTisuZfH6C9A/I3X6+kxShxzOUJ1ZFJSa0FCcjdjWXlPOFVjWGI0TmFqckk9Wh8iHbNHUVNXaEM0VWQxeEFHTzMwem5ScG5CT3NZVUU9ZYPTHPoSpwEIDBKiAQocMGE2YUY5TTZ2YXZuRjRzTUhGUEljS1JsRU9jPRIkNTA1M2QxYzAtYzBiZC00MDQ3LWJjYjQtMzU4YmEzMDNiNjA1GAAgAigCMK2d1+vpMTjruZfH6C9A+o3X6+kxShxtbUwyeUhOcWpYNGR3Z1U3L2R4WUxzUkpkTGc9Wh4iHGdVd0tTU01GeE8zdkVaMEw5SWVEV1E0ckdaUT1lxJF2xRKnAQgNEqIBChw0dFNPYjZaNEpnK2tBU2lQTlJGbW1qY011d289EiQ2MzE0YWY0NS00ZTc0LTQ3NWQtOGY3ZC00MGE5NjE1Mjc1NzcYACACKAIwrJ3X6+kxOI25l8foL0D8jdfr6TFKHDZUenNGaVZNczRYSHl5eDQzOG51UkN2S2FMVT1aHiIceXRUc0dJWDVzU1A1QnFFWWQzSEJuTDRmeGdVPWUEPJE/EqgBCBISowEKHGxBVC9oNVJOaS8rOEJvQ3NKT2FGbjFzTWxTQT0SJDIyMTBiYjQyLTI4ODctNGE3MS1iM2FlLWRhNWIwYzZkMTQzZhgAIAAoADDT6uavwjE4nb6Xx+gvQJ2+l8foL0ocNWh0WVltbjBjV2w1N0dmMTJjeFIweFlMalVvPVofIh37Lys0YTdCRDZsTVF1RjBCMi9UVldpYWxneGpJPWU4/XbbEqgBCBASowEKHGNDSDI4TGdLRUlidFU1NjRWMUZWbnhVSXJ3Yz0SJDU5MDQxMjBjLTc5MWItNDk0OC05MGM1LTI2MjdkOTUxZmM4ZRgAIAAoADCM8Yzsui446LqXx+gvQOi6l8foL0ocR29OY1pOM0gwOGFic0NJRnVoQ25LdFZESytNPVofIh3saHRxSmtaRjBCamUzdjFlWlVRbDJnVGFpWnVNPWUAAAAAEqcBCAkSogEKHGdQeEhKVDhwZ0UreXpGVndyVmdSQVpSRFFVdz0SJGY1MzQ0YTJjLTE1YzgtNDYwZC1iZmY3LWRjOTcyMDdjOWNlZRgAIAAoADCK8Yzsui44ybqXx+gvQMm6l8foL0ocSmNwNVR3VTBGc3NhTFhUc05QQ1lCb3hlT3NNPVoeIhw5SFFTRUpYRmtkKyszcUN0NU05K3hCUFk0RDQ9Zdu/VQMSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZjRhMDU4MjYtNjhhZS01YTkxLTk5MGQtMTcxZTEyN2ZjZGI5GAAgACgAMNmKzuOyMDiguJfH6C9AoLiXx+gvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKnAQgKEqIBChxOcXZhcGtBYTU4Y3VVNzhsazhqODJWRzgzMXc9EiQyZDhiY2Q2NC1jMjI1LTRkM2YtOTg5ZS1mMmIxNmRkODM4MDEYACAAKAAwi/GM7LouONi6l8foL0DYupfH6C9KHEdkU1YzNXN5c3JpUWdYVWR2T2Jrb0treGZMYz1aHiIcWk1kMUl5elJxU1VEWlIzSjBubjdFa25UVEt3PWUAAAAAEqcBCAsSogEKHDJWUTNXR28zUktRN1VDM0UyOWR4a2hwUGM4cz0SJGMwMTlkMjgzLTJjYTctNDMzYy05ZDZhLThlNjViYzJkOWI4YhgAIAIoAjCrndfr6TE4vLmXx+gvQPmN1+vpMUocVnFsZXBJbkczd21GRUwrNGRZZytWVm5hUUJrPVoeIhxOazdZdmx4KzRxTVNGcmRNWUhFZWF5dVZ5aEk9ZVNlzgESpwEIBxKiAQocU3FyMkJKMEdZRlVzUG5mNWgva1lScU5EbldZPRIkNjg5ZTJjYjAtNDc3Ny00YTYxLTg3OTgtZGJmM2Y0ZGEwOGUyGAAgACgAMPzrjOy6LjiKupfH6C9AirqXx+gvShxxVkpsc1BQM2orVnZiUTg1cjBvVnYyc0dtRVU9Wh4iHFdNZTFoNkdCSHdSN0dsU2tIbUIwakJCQVZKaz1lAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRkMjIxMmRlNC00MDcyLTUzODQtYmNhZi0yYjU1MThhYTg1ZTgYACAAKAAw2YrO47IwOK+4l8foL0CvuJfH6C9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqcBCAgSogEKHEloSFUyRGx0N2RSa0J5ODBSZlZJNXF2cjdaZz0SJDAwYWU5ZWViLWY2MDUtNGE0Zi04ZDJjLWY4YTJiYWIzOTgwORgAIAAoADCJ8Yzsui44ubqXx+gvQLm6l8foL0ocbWo2T2xCSnVmb0JpcDhGZ05lMldMK2UvenFjPVoeIhxjVnovNmxraEplSXJwc1k2TnBWR3cwUGt2VnM9ZQAAAAAwADgA",
+   "version": 1
+}
